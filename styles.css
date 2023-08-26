@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    padding:0;
+   
+}
+
+.post{
+    background-color: whitesmoke;
+    position: relative;
+    top:150px;
+    left:500px;
+    height: 540px;
+    width: 400px;  
+    border:2px solid black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.title{
+    display: flex;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.icon-dots{
+    position: relative;
+    left: 350px;
+}
+
+img{
+    height: 250px;
+    width: 400px;
+}
+.icons{
+    display: flex;
+    gap: 5px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.bookmarker{
+    position: relative;
+    left:280px;
+}
+
+p{
+    padding: 0px 10px 10px 10px;
+}
+
